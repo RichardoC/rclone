@@ -1,0 +1,12 @@
+# Ignore git directories
+.git
+.gitignore
+
+# From gitignore
+_junk/
+.idea
+.history
+*.test
+*.log
+*.iml
+fuzz-build.zip
